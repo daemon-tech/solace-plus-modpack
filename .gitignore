@@ -1,0 +1,5 @@
+*.mrpack
+solace-pack-test/
+*-test/
+logs/
+crash-reports/

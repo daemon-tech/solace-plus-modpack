@@ -1,0 +1,13 @@
+name = "Solace Plus"
+author = "0xDaemon"
+version = "0.1.0-draft"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4aa8a26825a5ef5a2c6ed9c678853581df8814e2329d62730f00d1d4f3e6f6f0"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

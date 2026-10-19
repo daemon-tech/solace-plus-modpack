@@ -1,0 +1,13 @@
+name = "Solace Shaders"
+filename = "Solace-0.29-dev.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUM3ET0U/versions/ML3rCw0j/Solace-0.29-dev.zip"
+hash-format = "sha512"
+hash = "17bb3c7418fed1adf1715ea1f9a80242379e52c45da2e4fa2100d42d64dbe7a136de81e01b3d3896e418bf98cef7cf89160e3ab9a502e03ff33f918e3ca5b53b"
+
+[update]
+[update.modrinth]
+mod-id = "BUM3ET0U"
+version = "ML3rCw0j"

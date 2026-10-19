@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","file/Whimscape_26.1-26.3_r3.zip","file/FreshAnimations_v1.11_26.1+.zip","file/FA+All_Extensions-v1.9.2.zip","file/FA+Player-v1.1.zip"]

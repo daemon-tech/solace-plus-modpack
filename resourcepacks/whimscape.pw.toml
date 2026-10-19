@@ -1,0 +1,13 @@
+name = "Whimscape"
+filename = "Whimscape_26.1-26.3_r3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4YkvO5Rp/versions/fLNmFQjv/Whimscape_26.1-26.3_r3.zip"
+hash-format = "sha512"
+hash = "b92349bad0a02163f7637403a923a8db160f2e1e68eca59cc9c7943e8548b6e9a80f3fab1f6be35d3c3daca806340f2ab883e56464ef1c80241376f4281611f7"
+
+[update]
+[update.modrinth]
+mod-id = "4YkvO5Rp"
+version = "fLNmFQjv"
